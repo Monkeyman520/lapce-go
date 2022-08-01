@@ -1,0 +1,15 @@
+name = "lapce-go"
+display-name = "Golang"
+description = "Go for Lapce"
+version = "0.1.0"
+author = "monkeyman"
+repository = "monkeyman520/lapce-go"
+wasm = "lapce-go.wasm"
+
+[configuration]
+language_id = "go"
+system_lsp = true
+# Full path or name on PATH
+
+[configuration.options]
+# Options passed to the LSP server
