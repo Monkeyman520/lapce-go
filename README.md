@@ -9,27 +9,27 @@ Install the go language server by `go install golang.org/x/tools/gopls@latest`.
 
 ##### dev
 
-    ``` bash
+``` bash
     bash ./scripts/dev.sh
-    ```
+```
 
 ##### release
 
-    ``` bash
+``` bash
     bash ./scripts/release.sh
-    ```
+```
 
 #### windows
 
 ##### dev
 
-    ``` powershell
+``` powershell
     powershell ./scripts/dev.ps1
-    ```
+```
 
 ##### release
 
-    ``` powershell
-        powershell ./scripts/release.ps1
-    ```
+``` powershell
+    powershell ./scripts/release.ps1
+```
 
